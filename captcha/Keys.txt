@@ -1,0 +1,7 @@
+Captcha2
+	Site Key: 6LcnhboZAAAAALwNXw30VzNVvWFz3ynTTwEkmVVn
+	Secret key: 6LcnhboZAAAAAJyU8V9Pk2HcRKJigKDf7EFxd7vX
+
+Captcha3
+	Site Key: 6Lf7k7oZAAAAAI-I8Gpgc5U9iUWyna8xSnYvrc8h
+	Secret key: 6Lf7k7oZAAAAAKVngOnV4x_TUy-yMhC5yD8-1HX2
